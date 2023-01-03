@@ -19,7 +19,7 @@ on your `pubspec.yaml`
 ```
 socure:
       git:
-        url: https://github.com/iampato/socure-flutter-wrapper.git
+        url: https://github.com/rburunkayaSocure/socure-flutter-wrapper.git
         ref: develop
 ```
 
